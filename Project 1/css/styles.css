@@ -1,0 +1,35 @@
+p {
+    color: black
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: black;
+    
+    }
+    
+    li {
+    float: left;
+    }
+    
+    li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 20px 70px;
+    text-decoration: none;
+    }
+    
+    footer {
+    background-color: black;
+    clear: both;
+    width: 100%;
+    }
+    footer p {
+    text-align: center;
+    color: white;
+    padding: 1em 0;
+    }
+    
